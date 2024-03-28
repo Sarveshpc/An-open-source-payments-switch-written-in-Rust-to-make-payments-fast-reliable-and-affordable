@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/imgs/hyperswitch-logo-dark.svg#gh-dark-mode-only" alt="Hyperswitch-Logo" width="40%" />
+  <img src="https://superblog.supercdn.cloud/site_cuid_clcr96b0c554951pnt4gir7s48/images/logo-hyperswitchblog-1674546941674.jpg" alt="Hyperswitch-Logo" width="40%" />
   <img src="./docs/imgs/hyperswitch-logo-light.svg#gh-light-mode-only" alt="Hyperswitch-Logo" width="40%" />
 </p>
 
